@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005-5%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005-4%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005-3%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005-2%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005-1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test005]]></title>
+    <url>%2F2018%2F08%2F03%2Ftest005%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test003]]></title>
+    <url>%2F2018%2F08%2F02%2Ftest003%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test002]]></title>
+    <url>%2F2018%2F08%2F02%2Ftest002%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>旅行</category>
+      </categories>
+      <tags>
+        <tag>jj</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test001]]></title>
+    <url>%2F2018%2F08%2F02%2Ftest001%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[kkkk.md]]></title>
     <url>%2F2018%2F08%2F02%2Fkkkk-md%2F</url>
     <content type="text"><![CDATA[v njj即可 kjhkjh 和国际化 课间 健康和]]></content>
@@ -25,8 +76,5 @@
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F08%2F01%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
-      <tags>
-        <tag>毛</tag>
-      </tags>
   </entry>
 </search>
