@@ -29,8 +29,8 @@ override: false
 favicon:
   small: /images/favicon-16x16-next.png
   medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  #apple_touch_icon: /images/apple-touch-icon-next.png
+  #safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -689,11 +689,11 @@ fancybox: true
 
 # Progress bar in the top during page loading.
 pace: true
-# Themes list:
+ Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
 #pace-theme-barber-shop
-#pace-theme-center-atom
+pace-theme-center-atom
 #pace-theme-center-circle
 #pace-theme-center-radar
 #pace-theme-center-simple
@@ -704,9 +704,9 @@ pace: true
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-# pace_theme: pace-theme-center-simple
+pace_theme: pace-theme-center-simple
 #pace_theme: pace-theme-minimal
-pace_theme: pace-theme-flash
+#pace_theme: pace-theme-flash
 
 # Canvas-nest
 canvas_nest: true
