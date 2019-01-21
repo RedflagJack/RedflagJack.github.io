@@ -75,7 +75,7 @@ footer:
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -689,11 +689,11 @@ fancybox: true
 
 # Progress bar in the top during page loading.
 pace: true
- Themes list:
+#Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
 #pace-theme-barber-shop
-pace-theme-center-atom
+#pace-theme-center-atom
 #pace-theme-center-circle
 #pace-theme-center-radar
 #pace-theme-center-simple
@@ -704,8 +704,8 @@ pace-theme-center-atom
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-pace_theme: pace-theme-center-simple
-#pace_theme: pace-theme-minimal
+#pace_theme: pace-theme-center-simple
+pace_theme: pace-theme-minimal
 #pace_theme: pace-theme-flash
 
 # Canvas-nest
