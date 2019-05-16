@@ -5,7 +5,7 @@
   <span class="with-love">
     <i class="fa fa-{{ theme.footer.icon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder"> Powered By - {{ theme.footer.copyright || config.author }}</span>
+  <span class="author" itemprop="copyrightHolder"> Powered By - RedflagJack
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
@@ -23,7 +23,7 @@
 
 {% if theme.footer.powered %}
   <div class="powered-by">{#
-  #}{{ __('footer.powered', '') }}{#
+  #}{{ __('footer.powered', '') }} {#
 #}</div>
 {% endif %}
 
@@ -33,7 +33,7 @@
 
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
-  #}{{ __('footer.theme') }} - RedflagJack {#
+  #}{{ __('footer.theme') }} - Jack Mao {#
   #}{#
 #}</div>
 {% endif %}
