@@ -5,7 +5,7 @@
   <span class="with-love">
     <i class="fa fa-{{ theme.footer.icon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder"> Powered By - RedflagJack
+  <span class="author" itemprop="copyrightHolder"> 由 redFlagJack 提供技术支持
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
@@ -33,7 +33,7 @@
 
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
-  #}{{ __('footer.theme') }} - Jack Mao {#
+  #}{{ __('footer.theme') }} - LIWEI MAO {#
   #}{#
 #}</div>
 {% endif %}
